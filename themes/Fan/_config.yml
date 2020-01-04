@@ -21,19 +21,18 @@ avatar: https://avatars1.githubusercontent.com/u/31835335?s=460&v=4
 toc:
   enable: true
   friendlink:
-    enable: false
-    data:
-      -
-        url: https://github.com/ahKevinXy
-        text: 友链1:这是简介
+    enable: true
+    data: 
       - url: https://github.com/fan-lv
-        text: 友链2
-      - url: https://github.com/fan-lv
-        text: 友链3
+        text: 主题来自于 Fan
+      - url: https://github.com/diveDylan
+        text: 前端大神  Dylan
+      - url: https://github.com/jiangzhenfei
+        text: 架构师 Fei
 
 # Footer Settings
 # ---------------
-since: 2017
+since: 2019
 
 links:
   enable: true
@@ -92,8 +91,8 @@ post_meta:
 # recent-posts 中文章内容显示的字数
 # 不推荐使用，请尽量在文章中使用 <!-- more --> 来定位要截断的内容
 auto_excerpt:
-  enable: false
-  length: 200
+  enable: true
+  length: 100
 
 # algolia 搜索
 algolia_search:
@@ -107,6 +106,6 @@ local_search:
 
 # 复制代码
 post_copyright:
-  enable: true
-  license: CC BY-NC-SA 4.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  enable: false
+  #license: CC BY-NC-SA 4.0
+  #license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
