@@ -483,6 +483,8 @@ Route::get('user/profile',function()
 ###### 中间件
 
 ***
+ 
+
 
 
 
@@ -494,3 +496,4 @@ Route::get('user/profile',function()
  
     
 
+```
